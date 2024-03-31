@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "dictionaries": [
+    "pt-br",
+    "fonts",
+    "filetypes",
+    "typescript",
+    "node",
+    "html",
+    "css",
+    "npm"
+  ],
+  "words": [
+    "Warshall"
+  ],
+  "allowCompoundWords": true,
+  "flagWords": [],
+  "ignoreWords": [],
+  "ignorePaths": [
+    "dist",
+    "node_modules"
+  ]
+}
